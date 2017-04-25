@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QQ-music</title>
+    <!--移动端页面必备-->
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <script>
+        //在样式html: fontSize生效之前我们根据当前设备的宽度计算出当前设备对应比例关系的html的fontSize
+        ;(function (){
+            var winWidth = document.documentElement.clientWidth;// 当前窗口的宽度
+            // 根节点的字体大小就修改结束了
+
+            document.documentElement.style.fontSize = winWidth/640*100 + 'px';
+            window.htmlFontSize = winWidth/640*100;/*一会设置main的时刻需要这个字体大小*/
+        })();
+    </script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <!--最外层的大盒子-->
+    <div class="music-box">
+        <!--专门处理模糊背景-->
+        <div class="music-bg"></div>
+        <audio  class="audio" src="images/1.mp3" preload="none" style="display: none;"></audio>
+        <!--
+            preload : none 当播放的时刻再加载(不播放不加载)
+                      auto 直接加载(不常用-默认)
+                      metadata(加载一些时长等信息)
+
+        -->
+        <!--header-->
+        <div class="header">
+            <div class="music-info">
+                <div class="music-logo"><img src="images/111.jpg"></div>
+                <div class="music-song">
+                    <p>小幸运</p>
+                    <p>邵亚瑄</p>
+                </div>
+            </div>
+            <div class="music-btn">
+                <a class="play" href="javascript:void 0"></a>
+                <a class="pause"  href="javascript:void 0"></a>
+            </div>
+        </div>
+        <!--main-->
+        <div class="main">
+            <div class="lyric">
+                <!--<p class="bg">模特</p>-->
+                <!--<p>词 ： 周耀辉</p>-->
+                <!--<p>曲 ： 李荣浩</p>-->
+            </div>
+        </div>
+        <!--footer-->
+        <div class="footer">
+            <!--收藏-->
+            <div class="collection"><a href="javascript:void 0"></a></div>
+            <div class="progress">
+                <!--当前播放的时间-->
+                <div class="currentTime">00:00</div>
+                <!--进度条-->
+                <div class="progressBar"><span></span></div>
+                <!--总时间-->
+                <div class="totalTime">05:55</div>
+            </div>
+            <!--下载按钮-->
+            <div class="download"><a href="javascript: void 0">下载这首音乐</a></div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="js/index.js"></script>

@@ -1,0 +1,285 @@
+{
+  "retcode": 0,
+  "code": 0,
+  "subcode": 0,
+  "type": 1,
+  "songt": 0,
+  "lyric": [
+    {
+      "id": 1,
+      "minute": "00",
+      "second": "02",
+      "content": "小幸运 "
+    },
+    {
+      "id": 2,
+      "minute": "00",
+      "second": "06",
+      "content": "词：Smith Du"
+    },
+    {
+      "id": 3,
+      "minute": "00",
+      "second": "09",
+      "content": "曲：Smith Du"
+    },
+    {
+      "id": 4,
+      "minute": "00",
+      "second": "15",
+      "content": "我听见雨滴落在青青草地"
+    },
+    {
+      "id": 5,
+      "minute": "00",
+      "second": "21",
+      "content": "我听见远方下课钟声响起"
+    },
+    {
+      "id": 6,
+      "minute": "00",
+      "second": "27",
+      "content": "可是我没有听见你的声音"
+    },
+    {
+      "id": 7,
+      "minute": "00",
+      "second": "31",
+      "content": "认真 呼唤我姓名"
+    },
+    {
+      "id": 8,
+      "minute": "00",
+      "second": "39",
+      "content": "爱上你的时候还不懂感情"
+    },
+    {
+      "id": 9,
+      "minute": "00",
+      "second": "45",
+      "content": "离别了才觉得刻骨 铭心"
+    },
+    {
+      "id": 10,
+      "minute": "00",
+      "second": "51",
+      "content": "为什么没有发现遇见了你"
+    },
+    {
+      "id": 11,
+      "minute": "00",
+      "second": "56",
+      "content": "是生命最好的事情"
+    },
+    {
+      "id": 12,
+      "minute": "01",
+      "second": "01",
+      "content": "也许当时忙着微笑和哭泣"
+    },
+    {
+      "id": 13,
+      "minute": "01",
+      "second": "08",
+      "content": "忙着追逐天空中的流星"
+    },
+    {
+      "id": 14,
+      "minute": "01",
+      "second": "14",
+      "content": "人理所当然的忘记"
+    },
+    {
+      "id": 15,
+      "minute": "01",
+      "second": "18",
+      "content": "是谁风里雨里一直默默守护在原地"
+    },
+    {
+      "id": 16,
+      "minute": "01",
+      "second": "26",
+      "content": "原来你是我最想留住的幸运"
+    },
+    {
+      "id": 17,
+      "minute": "01",
+      "second": "31",
+      "content": "原来我们和爱情曾经靠得那么近"
+    },
+    {
+      "id": 18,
+      "minute": "01",
+      "second": "37",
+      "content": "那为我对抗世界的决定"
+    },
+    {
+      "id": 19,
+      "minute": "01",
+      "second": "42",
+      "content": "那陪我淋的雨"
+    },
+    {
+      "id": 20,
+      "minute": "01",
+      "second": "45",
+      "content": "一幕幕都是你 一尘不染的真心"
+    },
+    {
+      "id": 21,
+      "minute": "01",
+      "second": "52",
+      "content": "与你相遇 好幸运"
+    },
+    {
+      "id": 22,
+      "minute": "01",
+      "second": "55",
+      "content": "可我已失去为你泪流满面的权利"
+    },
+    {
+      "id": 23,
+      "minute": "02",
+      "second": "01",
+      "content": "但愿在我看不到的天际"
+    },
+    {
+      "id": 24,
+      "minute": "02",
+      "second": "06",
+      "content": "你张开了双翼"
+    },
+    {
+      "id": 25,
+      "minute": "02",
+      "second": "09",
+      "content": "遇见你的注定"
+    },
+    {
+      "id": 26,
+      "minute": "02",
+      "second": "14",
+      "content": "她会有多幸运"
+    },
+    {
+      "id": 27,
+      "minute": "02",
+      "second": "29",
+      "content": "青春是段跌跌撞撞的旅行"
+    },
+    {
+      "id": 28,
+      "minute": "02",
+      "second": "35",
+      "content": "拥有着后知后觉的美丽"
+    },
+    {
+      "id": 29,
+      "minute": "02",
+      "second": "40",
+      "content": "来不及感谢是你给我勇气"
+    },
+    {
+      "id": 30,
+      "minute": "02",
+      "second": "46",
+      "content": "让我能做回我自己"
+    },
+    {
+      "id": 31,
+      "minute": "02",
+      "second": "51",
+      "content": "也许当时忙着微笑和哭泣"
+    },
+    {
+      "id": 32,
+      "minute": "02",
+      "second": "57",
+      "content": "忙着追逐天空中的流星"
+    },
+    {
+      "id": 33,
+      "minute": "03",
+      "second": "02",
+      "content": "人理所当然的忘记"
+    },
+    {
+      "id": 34,
+      "minute": "03",
+      "second": "08",
+      "content": "是谁风里雨里一直默默守护在原地"
+    },
+    {
+      "id": 35,
+      "minute": "03",
+      "second": "15",
+      "content": "原来你是我最想留住的幸运"
+    },
+    {
+      "id": 36,
+      "minute": "03",
+      "second": "20",
+      "content": "原来我们和爱情曾经靠得那么近"
+    },
+    {
+      "id": 37,
+      "minute": "03",
+      "second": "26",
+      "content": "那为我对抗世界的决定"
+    },
+    {
+      "id": 38,
+      "minute": "03",
+      "second": "31",
+      "content": "那陪我淋的雨"
+    },
+    {
+      "id": 39,
+      "minute": "03",
+      "second": "34",
+      "content": "一幕幕都是你 一尘不染的真心"
+    },
+    {
+      "id": 40,
+      "minute": "03",
+      "second": "41",
+      "content": "与你相遇 好幸运"
+    },
+    {
+      "id": 41,
+      "minute": "03",
+      "second": "44",
+      "content": "可我已失去为你泪流满面的权利"
+    },
+    {
+      "id": 42,
+      "minute": "03",
+      "second": "50",
+      "content": "但愿在我看不到的天际"
+    },
+    {
+      "id": 43,
+      "minute": "03",
+      "second": "55",
+      "content": "你张开了双翼"
+    },
+    {
+      "id": 44,
+      "minute": "03",
+      "second": "59",
+      "content": "遇见你的注定 (oh--)"
+    },
+    {
+      "id": 45,
+      "minute": "04",
+      "second": "06",
+      "content": "她会有多幸运"
+    },
+    {
+      "id": 46,
+      "minute": "04",
+      "second": "15",
+      "content": "丫丫，晓东遇见也你很幸运 "
+    }
+  ]
+}
